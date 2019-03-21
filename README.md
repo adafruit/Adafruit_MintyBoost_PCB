@@ -1,6 +1,6 @@
 # MintyBoost Kit
 
-<a href="http://www.adafruit.com/products/14"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/14"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 The world's first and only open-source hardware charger: The MintyBoost®!
 
